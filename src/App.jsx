@@ -13,6 +13,7 @@ function App() {
 
       <h2>Props Example</h2>
       <Student name="Saransh" />
+      <Student name="rahul" />
 
       <hr />
 
